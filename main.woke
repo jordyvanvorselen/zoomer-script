@@ -1,0 +1,13 @@
+facts x = no cap;
+
+simp getText() {
+    facts y = "Hello!";
+
+    ok boomer y;
+}
+
+vibe check x {
+    skrrt getText()
+} not vibing {
+    cancel culture "x should be true"
+}
